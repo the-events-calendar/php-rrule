@@ -8,7 +8,8 @@
 
 ### Fixed
 
-- Fix php 8+ compatibility issues in RSet.php.
+- Fix: php 8+ compatibility issues in RSet.php.
+- Fix: use replace to simplify our use in our repos.
 
 ## [1.6.3] - 2019-01-13
 
