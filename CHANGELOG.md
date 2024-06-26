@@ -4,6 +4,12 @@
 
 - n/a
 
+## [1.6.4] - 2024-06-26
+
+### Fixed
+
+- Fix php 8+ compatibility issues in RSet.php.
+
 ## [1.6.3] - 2019-01-13
 
 ### Fixed
